@@ -5,7 +5,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
