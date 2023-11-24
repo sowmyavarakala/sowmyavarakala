@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Sowmya Varakala, a passionate and results-driven Computer Science graduate student based in <b>Stony Brook, NY.</b> Currently pursuing my Master's in Computer Science at SUNY Stony Brook University, with a GPA of 3.93/4.0, I am open to exciting opportunities and eager to contribute to innovative projects.
+<p>Welcome to my page! </p></br></br> I'm Sowmya Varakala, a passionate and results-driven Computer Science graduate student based in <b>Stony Brook, NY.</b> Currently pursuing my Master's in Computer Science at SUNY Stony Brook University, with a GPA of 3.93/4.0, I am open to exciting opportunities and eager to contribute to innovative projects.
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
