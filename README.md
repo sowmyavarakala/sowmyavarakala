@@ -1,1 +1,3 @@
-# sowmyavarakala.github.io
+# Sowmya Varakala
+
+Welcome to my GitHub portfolio!
