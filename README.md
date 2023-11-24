@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page! </p>
-
 </br> I'm Sowmya Varakala, a passionate and results-driven Computer Science graduate student based in <b>Stony Brook, NY.</b> Currently pursuing my Master's in Computer Science at SUNY Stony Brook University, with a GPA of 3.93/4.0, I am open to exciting opportunities and eager to contribute to innovative projects.
 <h3>Things I code with</h3>
 <p>
